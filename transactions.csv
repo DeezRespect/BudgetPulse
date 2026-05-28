@@ -1,0 +1,59 @@
+date,description,amount,category,type
+2026-01-05,Salary,150000,Income,income
+2026-01-10,Rent,-45000,Housing,expense
+2026-01-12,Gym membership,-4500,Health,expense
+2026-01-14,Supermarket,-8200,Food,expense
+2026-01-16,Netflix,-2200,Subscriptions,expense
+2026-01-18,Claude AI,-3500,Subscriptions,expense
+2026-01-20,Gas station,-6800,Transport,expense
+2026-01-22,Supermarket,-7500,Food,expense
+2026-01-25,Japanese lesson,-8000,Education,expense
+2026-01-28,Restaurant,-4200,Food,expense
+2026-01-30,Phone bill,-3200,Utilities,expense
+2026-02-05,Salary,150000,Income,income
+2026-02-08,Rent,-45000,Housing,expense
+2026-02-10,Supermarket,-9100,Food,expense
+2026-02-12,Gym membership,-4500,Health,expense
+2026-02-14,Netflix,-2200,Subscriptions,expense
+2026-02-16,Claude AI,-3500,Subscriptions,expense
+2026-02-18,Gas station,-7200,Transport,expense
+2026-02-20,Japanese lesson,-8000,Education,expense
+2026-02-22,Restaurant,-5800,Food,expense
+2026-02-24,Pharmacy,-3100,Health,expense
+2026-02-26,Phone bill,-3200,Utilities,expense
+2026-02-28,Car repair,-18000,Transport,expense
+2026-03-05,Salary,150000,Income,income
+2026-03-07,Gumroad sale,8700,Income,income
+2026-03-08,Rent,-45000,Housing,expense
+2026-03-10,Supermarket,-8800,Food,expense
+2026-03-12,Gym membership,-4500,Health,expense
+2026-03-14,Netflix,-2200,Subscriptions,expense
+2026-03-16,Claude AI,-3500,Subscriptions,expense
+2026-03-18,Gas station,-6500,Transport,expense
+2026-03-20,Japanese lesson,-8000,Education,expense
+2026-03-22,Restaurant,-3900,Food,expense
+2026-03-25,Phone bill,-3200,Utilities,expense
+2026-03-28,Gumroad sale,5800,Income,income
+2026-04-05,Salary,150000,Income,income
+2026-04-07,Gumroad sale,11200,Income,income
+2026-04-08,Rent,-45000,Housing,expense
+2026-04-10,Supermarket,-9500,Food,expense
+2026-04-12,Gym membership,-4500,Health,expense
+2026-04-14,Netflix,-2200,Subscriptions,expense
+2026-04-16,Claude AI,-3500,Subscriptions,expense
+2026-04-18,Gas station,-7100,Transport,expense
+2026-04-20,Japanese lesson,-8000,Education,expense
+2026-04-22,Restaurant,-6200,Food,expense
+2026-04-24,Perfume purchase,-22000,Personal,expense
+2026-04-26,Phone bill,-3200,Utilities,expense
+2026-05-05,Salary,150000,Income,income
+2026-05-07,Gumroad sale,14500,Income,income
+2026-05-08,Rent,-45000,Housing,expense
+2026-05-10,Supermarket,-8600,Food,expense
+2026-05-12,Gym membership,-4500,Health,expense
+2026-05-14,Netflix,-2200,Subscriptions,expense
+2026-05-16,Claude AI,-3500,Subscriptions,expense
+2026-05-18,Gas station,-6900,Transport,expense
+2026-05-20,Japanese lesson,-8000,Education,expense
+2026-05-22,Restaurant,-4100,Food,expense
+2026-05-25,Phone bill,-3200,Utilities,expense

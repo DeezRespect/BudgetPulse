@@ -1,0 +1,93 @@
+{
+  "generated_at": "2026-05-28T02:32:03.888490",
+  "source_file": "transactions.csv",
+  "total_transactions": 58,
+  "monthly_summary": {
+    "2026-01": {
+      "income": 150000.0,
+      "expenses": 93100.0,
+      "savings": 56900.0,
+      "savings_rate": 37.9,
+      "transactions": 11
+    },
+    "2026-02": {
+      "income": 150000.0,
+      "expenses": 109600.0,
+      "savings": 40400.0,
+      "savings_rate": 26.9,
+      "transactions": 12
+    },
+    "2026-03": {
+      "income": 164500.0,
+      "expenses": 85600.0,
+      "savings": 78900.0,
+      "savings_rate": 48.0,
+      "transactions": 12
+    },
+    "2026-04": {
+      "income": 161200.0,
+      "expenses": 111200.0,
+      "savings": 50000.0,
+      "savings_rate": 31.0,
+      "transactions": 12
+    },
+    "2026-05": {
+      "income": 164500.0,
+      "expenses": 86000.0,
+      "savings": 78500.0,
+      "savings_rate": 47.7,
+      "transactions": 11
+    }
+  },
+  "category_breakdown": {
+    "Housing": {
+      "total": 135000.0,
+      "percent": 47.7
+    },
+    "Food": {
+      "total": 41100.0,
+      "percent": 14.5
+    },
+    "Education": {
+      "total": 24000.0,
+      "percent": 8.5
+    },
+    "Personal": {
+      "total": 22000.0,
+      "percent": 7.8
+    },
+    "Transport": {
+      "total": 20500.0,
+      "percent": 7.2
+    },
+    "Subscriptions": {
+      "total": 17100.0,
+      "percent": 6.0
+    },
+    "Health": {
+      "total": 13500.0,
+      "percent": 4.8
+    },
+    "Utilities": {
+      "total": 9600.0,
+      "percent": 3.4
+    }
+  },
+  "anomalies": [],
+  "stop_loss_alerts": [
+    {
+      "category": "Housing",
+      "amount": 135000.0,
+      "percent": 47.7,
+      "message": "Housing: 47.7% of total spend ($135,000) \u2014 exceeds 30% threshold"
+    }
+  ],
+  "goal_tracker": {
+    "goal": 6000.0,
+    "total_saved": 304700.0,
+    "remaining": 0,
+    "avg_monthly": 69133.33,
+    "months_to_goal": 0.0,
+    "on_track": false
+  }
+}

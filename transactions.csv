@@ -1,59 +1,43 @@
 date,description,amount,category,type
-2026-01-05,Salary,150000,Income,income
-2026-01-10,Rent,-45000,Housing,expense
-2026-01-12,Gym membership,-4500,Health,expense
-2026-01-14,Supermarket,-8200,Food,expense
-2026-01-16,Netflix,-2200,Subscriptions,expense
-2026-01-18,Claude AI,-3500,Subscriptions,expense
-2026-01-20,Gas station,-6800,Transport,expense
-2026-01-22,Supermarket,-7500,Food,expense
-2026-01-25,Japanese lesson,-8000,Education,expense
-2026-01-28,Restaurant,-4200,Food,expense
-2026-01-30,Phone bill,-3200,Utilities,expense
-2026-02-05,Salary,150000,Income,income
-2026-02-08,Rent,-45000,Housing,expense
-2026-02-10,Supermarket,-9100,Food,expense
-2026-02-12,Gym membership,-4500,Health,expense
-2026-02-14,Netflix,-2200,Subscriptions,expense
-2026-02-16,Claude AI,-3500,Subscriptions,expense
-2026-02-18,Gas station,-7200,Transport,expense
-2026-02-20,Japanese lesson,-8000,Education,expense
-2026-02-22,Restaurant,-5800,Food,expense
-2026-02-24,Pharmacy,-3100,Health,expense
-2026-02-26,Phone bill,-3200,Utilities,expense
-2026-02-28,Car repair,-18000,Transport,expense
-2026-03-05,Salary,150000,Income,income
-2026-03-07,Gumroad sale,8700,Income,income
-2026-03-08,Rent,-45000,Housing,expense
-2026-03-10,Supermarket,-8800,Food,expense
-2026-03-12,Gym membership,-4500,Health,expense
-2026-03-14,Netflix,-2200,Subscriptions,expense
-2026-03-16,Claude AI,-3500,Subscriptions,expense
-2026-03-18,Gas station,-6500,Transport,expense
-2026-03-20,Japanese lesson,-8000,Education,expense
-2026-03-22,Restaurant,-3900,Food,expense
-2026-03-25,Phone bill,-3200,Utilities,expense
-2026-03-28,Gumroad sale,5800,Income,income
-2026-04-05,Salary,150000,Income,income
-2026-04-07,Gumroad sale,11200,Income,income
-2026-04-08,Rent,-45000,Housing,expense
-2026-04-10,Supermarket,-9500,Food,expense
-2026-04-12,Gym membership,-4500,Health,expense
-2026-04-14,Netflix,-2200,Subscriptions,expense
-2026-04-16,Claude AI,-3500,Subscriptions,expense
-2026-04-18,Gas station,-7100,Transport,expense
-2026-04-20,Japanese lesson,-8000,Education,expense
-2026-04-22,Restaurant,-6200,Food,expense
-2026-04-24,Perfume purchase,-22000,Personal,expense
-2026-04-26,Phone bill,-3200,Utilities,expense
-2026-05-05,Salary,150000,Income,income
-2026-05-07,Gumroad sale,14500,Income,income
-2026-05-08,Rent,-45000,Housing,expense
-2026-05-10,Supermarket,-8600,Food,expense
-2026-05-12,Gym membership,-4500,Health,expense
-2026-05-14,Netflix,-2200,Subscriptions,expense
-2026-05-16,Claude AI,-3500,Subscriptions,expense
-2026-05-18,Gas station,-6900,Transport,expense
-2026-05-20,Japanese lesson,-8000,Education,expense
-2026-05-22,Restaurant,-4100,Food,expense
-2026-05-25,Phone bill,-3200,Utilities,expense
+2026-01-03,Monthly salary,185000,Income,income
+2026-01-06,Apartment rent,-52000,Housing,expense
+2026-01-08,Supermarket,-9400,Food,expense
+2026-01-10,Internet & phone,-3800,Utilities,expense
+2026-01-12,Gym membership,-5200,Health,expense
+2026-01-14,Streaming services,-2600,Subscriptions,expense
+2026-01-15,Gas station,-7100,Transport,expense
+2026-01-17,Restaurant,-4800,Food,expense
+2026-01-20,Online course,-6500,Education,expense
+2026-01-22,Supermarket,-8200,Food,expense
+2026-01-25,Pharmacy,-2900,Health,expense
+2026-01-27,Electricity bill,-4100,Utilities,expense
+2026-01-29,Coffee shop,-1800,Food,expense
+2026-02-03,Monthly salary,185000,Income,income
+2026-02-05,Freelance project,22000,Side income,income
+2026-02-06,Apartment rent,-52000,Housing,expense
+2026-02-08,Supermarket,-10200,Food,expense
+2026-02-10,Internet & phone,-3800,Utilities,expense
+2026-02-12,Gym membership,-5200,Health,expense
+2026-02-13,Streaming services,-2600,Subscriptions,expense
+2026-02-15,Gas station,-6800,Transport,expense
+2026-02-17,Restaurant,-3900,Food,expense
+2026-02-18,Car repair,-19500,Transport,expense
+2026-02-20,Online course,-6500,Education,expense
+2026-02-22,Supermarket,-9100,Food,expense
+2026-02-25,Electricity bill,-4300,Utilities,expense
+2026-02-27,Coffee shop,-2100,Food,expense
+2026-03-03,Monthly salary,185000,Income,income
+2026-03-04,Freelance project,18500,Side income,income
+2026-03-06,Apartment rent,-52000,Housing,expense
+2026-03-08,Supermarket,-9800,Food,expense
+2026-03-10,Internet & phone,-3800,Utilities,expense
+2026-03-12,Gym membership,-5200,Health,expense
+2026-03-13,Streaming services,-2600,Subscriptions,expense
+2026-03-15,Gas station,-7400,Transport,expense
+2026-03-17,Restaurant,-5200,Food,expense
+2026-03-19,Online course,-6500,Education,expense
+2026-03-21,Supermarket,-8700,Food,expense
+2026-03-24,Pharmacy,-1900,Health,expense
+2026-03-26,Electricity bill,-3900,Utilities,expense
+2026-03-28,Coffee shop,-1600,Food,expense
+2026-03-30,Freelance project,9800,Side income,income
